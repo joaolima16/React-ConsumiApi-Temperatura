@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.Container{
+background-image: linear-gradient(to top, #1e3c72 0%, #1e3c72 1%, #2a5298 100%);
+width: 30vw;
+height: 60vh;
+margin: 30px;
+box-shadow: 20px 20px 50px rgb(34, 34, 34);
+border-radius: 20px;
+margin: 0 auto;
+text-align: center;
+text-decoration: none;
+margin-top: 5vw;
+}
+.Content{
+padding: 30px;
+text-decoration: none;
+color: white;
+font-size: 22px;
+font-family: cursive;
+}
+.Content li{
+    padding: 5px;
+}
+img{
+    width: 120px;
+    padding: 15px;
+}
